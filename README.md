@@ -16,6 +16,5 @@ Quick Start Guide:
 5. Simulate > Start Simulation, choose minesweeper_tb (Enable optimization OFF)
 5. run at least 2000000ns
 6. Boards and result are printed to Modelsim console
-
 7. To set a different board, open minesweeper_final.v: set mine_row_[0 to 7] to preferred board (lines 52-59), set num_mines on line 248.
 8. Save, compile, re-start simulation, run.
