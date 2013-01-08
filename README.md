@@ -9,6 +9,7 @@ We implemented a number board generation algorithm, tile cascading, and an artif
 In order to implement this, we used the hardware description language Verilog and simulated our design using ModelSim10.
 
 Quick Start Guide:
+
 1. Start Modelsim
 2. Create new project
 3. Add existing Files: minesweeper_final.v & minesweeper_tb.v
