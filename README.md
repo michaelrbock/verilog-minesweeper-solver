@@ -1,7 +1,7 @@
 Verilog Minesweeper Solver.
 ==========================
 
-A Minesweeper AI written in Verilog HDL.
+A Minesweeper AI written in Verilog HDL. Solves ~80% of 8x8 boards correctly.
 
 Abstract:
 The goal of our end of the year project was to implement an automated version of the game, Minesweeper. 
